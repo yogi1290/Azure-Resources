@@ -1,0 +1,18 @@
+What is Virtual Network?
+
+It is the fundamental building block for private network in Azure. VNet enables Azure resources to communicate securely with each other, the internet, on-premise networks. Additional benefits of Azure's infrastructure are scale, availability, and isolation.
+
+Why use Azure Virtual network?
+
+Azure virtual network enables Azure resources to securely communicate with each other, the internet, and on-premises networks. 
+
+Key scenarios : 
+
+communication of Azure resources with the internet
+communication between Azure resources 
+communication with on-premises resources
+filtering network traffic 
+routing network traffic
+integration with Azure services.
+
+
